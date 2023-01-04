@@ -20,23 +20,6 @@ nav{
     align-items: center;
     justify-content: space-between;
 }
-.nav-links{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0 20px;
-    gap: 30px;
-}
-.nav-links ul > li{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.nav-links ul > li >a{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
 
 main{
     display: flex;
